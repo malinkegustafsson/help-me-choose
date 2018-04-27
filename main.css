@@ -39,6 +39,11 @@ button {
   color: #76B39D;
 }
 
-.boldText {
-  font-weight: bold;
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  color: #76B39D;
 }
